@@ -792,6 +792,7 @@ h3.title {
 }
 .contact-right {
     margin-top: 2em;
+    text-align: center;
 }
 .contact-form input[type="text"].email {
     margin: 2em 0 1em 0.5em;
