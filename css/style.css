@@ -172,6 +172,30 @@ p {
     font-size: 0.8em;
 	margin-right: 6px;
 }
+.about-left ul {
+    border: 3px double #008B8B;
+    padding: 1em 2em;
+}
+.about-left h5 {
+    font-size: 2em;
+    text-align: center;
+    color: #008B8B;
+}
+.about-left ul li {
+    display: block;
+    color: #999;
+    margin: 1em 0;
+    font-size:1em;
+}
+.about-left ul li span.glyphicon {
+    font-size: 0.8em;
+    margin-right: 6px;
+}
+.about-center{
+    padding-bottom: 0.2em;
+    font-size:1.2em;
+    margin: 5% 10% 10% 10%;
+}
 /*--//about--*/
 /*--work--*/
 .work {
